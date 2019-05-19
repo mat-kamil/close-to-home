@@ -25,7 +25,12 @@ has a file watcher thing that compiles the files on update,
 so i did'nt actually have to do any changes on the Node.js 
 stuff.
 
-
+### Installation
+- npm i
+- npm run
+- navigate to /upload
+- upload the included CSV file
+- go back to index and have a play around.
 
 
 
