@@ -10,6 +10,7 @@ app.
 
 
 ###History
+
 I started the app with  ` express close-to-home --view hbs 
 --css sass ` and adding VueJs as a js file, (mainly because 
 i am jaded by the default express template engine). To tone 
